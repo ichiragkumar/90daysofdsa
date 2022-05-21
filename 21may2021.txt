@@ -1,0 +1,12 @@
+What is Time Complexity?
+Time Complexity is the study of the efficiency of algorithms. It tells us how much time is taken by an algorithm 
+to process a given input. Let's understand this concept with the help of an example:
+
+________________________________________________________________________________________________________________________
+
+
+What is a Big O?
+Putting it simply, big O stands for ‘order of’ in our industry,
+but this is pretty different from the mathematical definition of the big O. 
+Big O in mathematics stands for all those complexities our program runs in. But in industry,
+we are asked the minimum of them. So this was a subtle difference.
