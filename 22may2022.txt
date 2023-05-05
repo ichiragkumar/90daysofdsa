@@ -6,6 +6,22 @@ how good a given algorithm is compared to some other algorithm.
 
 Now let's look at the mathematical definition of 'order of.' Primarily there are three types of widely used asymptotic notations.
 
+Big oh notation ( O )___________________________________________________________________________________________________
+Asymptotic Notations: Big O, Big Omega and Big Theta Explained 
+------------>
+Asymptotic notation gives us an idea about
+how good a given algorithm is compared to some other algorithm.
+
+Now let's look at the mathematical definition of 'order of.' Primarily there are three types of widely used asymptotic notations.
+
+Big oh notation ( O )___________________________________________________________________________________________________
+Asymptotic Notations: Big O, Big Omega and Big Theta Explained 
+------------>
+Asymptotic notation gives us an idea about
+how good a given algorithm is compared to some other algorithm.
+
+Now let's look at the mathematical definition of 'order of.' Primarily there are three types of widely used asymptotic notations.
+
 Big oh notation ( O )
 Big omega notation ( Ω )
 Big theta notation ( θ ) – Widely used one

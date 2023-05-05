@@ -7,6 +7,24 @@ the time complexity of our programs.
 Here are some tips and tricks about the same, 
 followed by a discussion of some questions
 
+How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)
+In previous videos, 
+we had discussed what time complexity is and 
+how it helps in dealing with what is most efficient for our programs. 
+Our task today will be to find out how to calculate 
+the time complexity of our programs. 
+Here are some tips and tricks about the same, 
+followed by a discussion of some questions
+
+
+How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)
+In previous videos, 
+we had discussed what time complexity is and 
+how it helps in dealing with what is most efficient for our programs. 
+Our task today will be to find out how to calculate 
+the time complexity of our programs. 
+Here are some tips and tricks about the same, 
+followed by a discussion of some questions
 
 _______________________________________________________________-----
 
